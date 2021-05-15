@@ -1,0 +1,5 @@
+Package: com.ouroboros.clutch
+Name: Clutch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Section: Tweaks
